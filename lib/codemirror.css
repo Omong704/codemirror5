@@ -77,7 +77,7 @@
   50% { background-color: transparent; }
   100% {}
 }
-@keyframes blink {
+@keyframes{
   0% {}
   50% { background-color: transparent; }
   100% {}
